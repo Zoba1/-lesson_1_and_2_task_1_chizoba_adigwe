@@ -25,6 +25,7 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
+	margin-left: 10px ;
 }
 
 ol, ul {
@@ -45,8 +46,16 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
+.tasaraheader{
+	color: blue;
+}
 /* Do not write a css rule above here! Use the space below  */
 
 
 /* Write your css below here */
+
+img {
+	height: 300px;
+width: 500px;
+margin-left: 10px;
+}
